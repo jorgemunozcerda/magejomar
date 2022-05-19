@@ -1,0 +1,24 @@
+{
+    "jomar_blog_post": {
+        "column": {
+            "id": true,
+            "title": true,
+            "content": true,
+            "created_at": true
+        },
+        "constraint": {
+            "PRIMARY": true
+        }
+    },
+    "jomar-blog-post": {
+        "column": {
+            "id": true,
+            "title": true,
+            "content": true,
+            "created_at": true
+        },
+        "constraint": {
+            "PRIMARY": true
+        }
+    }
+}
